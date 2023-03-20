@@ -23,7 +23,7 @@ int main()
     cout << "O Conteudo de x e: " << x << endl;
 
     //Some 10 a variável pt
-    *pt = *pt + 10;
+    pt = pt + 10;
     cout << "O Conteudo de x e: " << x << endl;
 
 
